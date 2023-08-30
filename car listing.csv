@@ -1,0 +1,290 @@
+,car_id,amount,name,region,use_type,mileage
+0,/ATVAaifQMLdlrDmVyAO2kxne,"₦ 3,858,750",Ford Ranger 2012 White,"Abuja (FCT), Katampe",107998 km,107998 km
+1,/lnL4bfJXzxPGrK54b7gXWReB,"₦ 2,475,000",Toyota Corolla 2007 Black,"Abuja (FCT), Jabi",155547 km,155547 km
+2,/8vb4xm57JfU7njyVYA3Jm3ba,"₦ 2,475,000",Toyota 4-Runner 2003 Blue,"Ogun State, Ado-Odo/Ota",320382 km,320382 km
+3,/uooeplTNTjyhMjx8cgcF1AH6,"₦ 4,680,000",Mercedes-Benz GL-Class 2007 Silver,"Oyo State, Ibadan",326140 km,326140 km
+4,/pIDiKBiTDgDvwOkODUp3G2ha,"₦ 3,375,000",Mercedes-Benz B-Class 2008 Silver,"Kaduna State, Kaduna / Kaduna State",99999 km,99999 km
+5,/dyaXh4MzHKnQAis8CXaQPPsM,"₦ 6,861,093",Toyota Tundra 2008 White,"Abuja (FCT), Wuse",124166 km,124166 km
+6,/44EPskf55bBCsTGbBXTrPTYj,"₦ 3,937,500",Toyota Camry 2007 Gold,"Lagos State, Isolo",168212 km,168212 km
+7,/kgTgdgupXaqgQF53ngEEaaEi,"₦ 7,176,000",Lexus ES 2007 Black,"Rivers State, Port-Harcourt",101740 km,101740 km
+8,/vXWpUmhQ97UZeEYNbbeUpWPn,"₦ 1,687,500",Honda Civic 2002 Blue,"Abuja (FCT), Lugbe District",294264 km,294264 km
+9,/cYVIGV9sRucMcMHaCBvukHka,"₦ 2,925,000",Toyota Corolla 2005 Green,"Lagos State, Ajah",64935 km,64935 km
+10,/fwwiSI1PdiLA7MaEHb7pIabB,"₦ 4,162,500",Mercedes-Benz C300 2010 Black,"Abuja (FCT), Jabi",208221 km,208221 km
+11,/r7P4koefu2wsTbeUBCj8GcBg,"₦ 4,160,000",Honda Accord Crosstour 2010 Silver,"Lagos State, Lekki",213435 km,213435 km
+12,/no5cklIi5Ulkg43nkQEskyHR,"₦ 7,350,000",Kia Optima 2013 Black,"Lagos State, Alimosho",328458 km,328458 km
+13,/mnDC1rg6ThFgxm5nRgoighL,"₦ 1,470,000",Volkswagen Jetta 2009 Blue,"Oyo State, Ibadan",...,...
+14,/ozm2KDncbEFzNGozdYfVI4gJ,"₦ 8,320,000",Honda Pilot 2011 Gray,"Lagos State, Kosofe",354471 km,354471 km
+15,/tHNLirC9X1G89TJvhn7u6eou,"₦ 2,184,000",Toyota Camry 2002 Green,"Abuja (FCT), Lugbe District",553889 km,553889 km
+16,/nmx6NNnvB05dIEOzYhrGXsNz,"₦ 4,680,000",Toyota Highlander 2002 Green,"Lagos State, Ifako-Ijaiye",243887 km,243887 km
+17,/7Zmw7zv3gjNGYxE4xY0uomCW,"₦ 3,570,000",Honda Ridgeline 2006 Red,"Rivers State, Port-Harcourt",147666 km,147666 km
+18,/yBj1PNwz6wOn5cyhqoGTQJix,"₦ 3,885,000",Hyundai Santa Fe 2013 Black,"Lagos State, Ajah",125109 km,125109 km
+19,/ATVAaifQMLdlrDmVyAO2kxne,"₦ 3,858,750",Ford Ranger 2012 White,"Abuja (FCT), Katampe",107998 km,107998 km
+20,/lnL4bfJXzxPGrK54b7gXWReB,"₦ 2,475,000",Toyota Corolla 2007 Black,"Abuja (FCT), Jabi",155547 km,155547 km
+21,/8vb4xm57JfU7njyVYA3Jm3ba,"₦ 2,475,000",Toyota 4-Runner 2003 Blue,"Ogun State, Ado-Odo/Ota",320382 km,320382 km
+22,/uooeplTNTjyhMjx8cgcF1AH6,"₦ 4,680,000",Mercedes-Benz GL-Class 2007 Silver,"Oyo State, Ibadan",326140 km,326140 km
+23,/pIDiKBiTDgDvwOkODUp3G2ha,"₦ 3,375,000",Mercedes-Benz B-Class 2008 Silver,"Kaduna State, Kaduna / Kaduna State",99999 km,99999 km
+24,/dyaXh4MzHKnQAis8CXaQPPsM,"₦ 6,861,093",Toyota Tundra 2008 White,"Abuja (FCT), Wuse",124166 km,124166 km
+25,/44EPskf55bBCsTGbBXTrPTYj,"₦ 3,937,500",Toyota Camry 2007 Gold,"Lagos State, Isolo",168212 km,168212 km
+26,/kgTgdgupXaqgQF53ngEEaaEi,"₦ 7,176,000",Lexus ES 2007 Black,"Rivers State, Port-Harcourt",101740 km,101740 km
+27,/vXWpUmhQ97UZeEYNbbeUpWPn,"₦ 1,687,500",Honda Civic 2002 Blue,"Abuja (FCT), Lugbe District",294264 km,294264 km
+28,/cYVIGV9sRucMcMHaCBvukHka,"₦ 2,925,000",Toyota Corolla 2005 Green,"Lagos State, Ajah",64935 km,64935 km
+29,/fwwiSI1PdiLA7MaEHb7pIabB,"₦ 4,162,500",Mercedes-Benz C300 2010 Black,"Abuja (FCT), Jabi",208221 km,208221 km
+30,/r7P4koefu2wsTbeUBCj8GcBg,"₦ 4,160,000",Honda Accord Crosstour 2010 Silver,"Lagos State, Lekki",213435 km,213435 km
+31,/no5cklIi5Ulkg43nkQEskyHR,"₦ 7,350,000",Kia Optima 2013 Black,"Lagos State, Alimosho",328458 km,328458 km
+32,/mnDC1rg6ThFgxm5nRgoighL,"₦ 1,470,000",Volkswagen Jetta 2009 Blue,"Oyo State, Ibadan",...,...
+33,/ozm2KDncbEFzNGozdYfVI4gJ,"₦ 8,320,000",Honda Pilot 2011 Gray,"Lagos State, Kosofe",354471 km,354471 km
+34,/tHNLirC9X1G89TJvhn7u6eou,"₦ 2,184,000",Toyota Camry 2002 Green,"Abuja (FCT), Lugbe District",553889 km,553889 km
+35,/nmx6NNnvB05dIEOzYhrGXsNz,"₦ 4,680,000",Toyota Highlander 2002 Green,"Lagos State, Ifako-Ijaiye",243887 km,243887 km
+36,/7Zmw7zv3gjNGYxE4xY0uomCW,"₦ 3,570,000",Honda Ridgeline 2006 Red,"Rivers State, Port-Harcourt",147666 km,147666 km
+37,/yBj1PNwz6wOn5cyhqoGTQJix,"₦ 3,885,000",Hyundai Santa Fe 2013 Black,"Lagos State, Ajah",125109 km,125109 km
+38,/1wOvW9gxhogTQbwQG91Koue3,"₦ 17,850,000",Mercedes-Benz GLE-Class 2017 Gray,"Lagos State, Lekki",281695 km,281695 km
+39,/ieTyt2FubXGNSAmDueQ6M3ic,"₦ 9,975,000",Chrysler 300C 2012 Gray,"Ogun State, Ado-Odo/Ota",225769 km,225769 km
+40,/zXWcZQ1cRyhNFfgH0K2C69yO,"₦ 5,720,000",Lexus ES 2011 Gold,"Lagos State, Alimosho",109036 km,109036 km
+41,/soykWKLr9A6FLUHkXssLIOw3,"₦ 2,964,000",Toyota Corolla 2006 Blue,"Abuja (FCT), Kubwa",166394 km,166394 km
+42,/Bqy8fS8Me2wAaoMRndG519gj,"₦ 924,000",Mazda 626 2000 White,"Akwa Ibom State, Uyo",203790 km,203790 km
+43,/6twq2VvVWmc4Ymjp0A2iZUzI,"₦ 4,095,000",Acura MDX 2007 Black,"Rivers State, Port-Harcourt",257497 km,257497 km
+44,/6os0nRNyZYmCg3lixZ2jH2Nu,"₦ 3,150,000",Lexus RX 2004 Silver,"Lagos State, Ojodu",259575 km,259575 km
+45,/Ccv49WHTKQhjWnQlj6GY953u,"₦ 7,350,000",Toyota Hilux 2014 White,"Lagos State, Ogba",138620 km,138620 km
+46,/rJz1ydqwSJoDGnJewJhgukhp,"₦ 18,720,000",Lexus RX 2015 Black,"Lagos State, Victoria Island",78405 km,78405 km
+47,/dWIT7r5at1TJct0c7yWBt64,"₦ 12,600,000",Toyota RAV4 2017 Silver,"Lagos State, Apapa",185320 km,185320 km
+48,/fS15xy5Ba5w1rph1ywx3uWao,"₦ 840,000",Nissan Sentra 2005 Black,"Ogun State, Ado-Odo/Ota",248025 km,248025 km
+49,/aR54NnNDZ6ezJrRJqcekPyk8,"₦ 3,570,000",Lexus GX 2004 Blue,"Rivers State, Port-Harcourt",241770 km,241770 km
+50,/pG4W9zQJRuopk23JrNoYz16N,"₦ 3,255,000",Toyota Corolla 2009 Blue,"Abuja (FCT), Katampe",93892 km,93892 km
+51,/5PHuKTUdK9LQNJWdboljlBXE,"₦ 3,640,000",Toyota Camry 2007 Black,"Abuja (FCT), Gwarinpa",253438 km,253438 km
+52,/dzEimqo1jPoGAeRxSdYjZrc4,"₦ 9,660,000",Toyota 4-Runner SR5 2WD 2011 Black,"Rivers State, Port-Harcourt",75688 km,75688 km
+53,/znTYuNklRdBTG8sIiDXca86R,"₦ 7,800,000",Lexus IS 2012 White,"Lagos State, Alimosho",178844 km,178844 km
+54,/8ohAOV05qkMrLrNlC0EiD0Pl,"₦ 1,470,000",Acura MDX 2002 Silver,"Abuja (FCT), Lugbe District",303452 km,303452 km
+55,/dLtSmtP2tNQ3a8XxwumJS3Xf,"₦ 3,120,000",Honda CR-V 2009 Black,"Lagos State, Lekki",148150 km,148150 km
+56,/rY5fHlNvNq9P7Rk8bUUXMCKU,"₦ 6,037,500",Lexus ES 2011 Black,"Oyo State, Ibadan",148643 km,148643 km
+57,/xchwzsVt1MO8Z0MKFHy8zPgB,"₦ 23,100,000",Mercedes-Benz GLC-Class 2017 White,"Lagos State, Ikeja",110629 km,110629 km
+58,/tIjrmeqpZP7H01VaStBKQaXn,"₦ 6,240,000",Mazda CX-9 2009 White,"Oyo State, Ibadan",69485 km,69485 km
+59,/6vHdmGcPhiQP6RFNcvLb7lEO,"₦ 6,195,000",Mercedes-Benz GLK-Class 2010 White,"Lagos State, Apapa",263172 km,263172 km
+60,/wgHyUcJJXmfyhNLZXjcQZ5LV,"₦ 1,680,000",Nissan Murano 2007 Black,"Lagos State, Alimosho",225816 km,225816 km
+61,/oHrQy4xSOX4fZ9S0mhyPjP7p,"₦ 1,995,000",BMW 325i 2002 Green,"Abuja (FCT), Jabi",283189 km,283189 km
+62,/mqVOsCGdQXqyPQ2hVWhjGG8V,"₦ 892,500",Peugeot 206 2004 Red,"Kwara State, Ilorin East",1609338 km,1609338 km
+63,/10WOhN1bJlLtdgBpcubym5UD,"₦ 3,045,000",Toyota Camry 2008 Red,"Lagos State, Ikeja",243225 km,243225 km
+64,/ineAaDBQg2B7fcKVtt8JXM8a,"₦ 7,400,000",Ford F-150 2013 White,"Lagos State, Alimosho",371036 km,371036 km
+65,/axF2TH1vmfLooOtgVwo0jZFy,"₦ 1,470,000",Honda Accord 2006 Black,"Kaduna State, Kaduna / Kaduna State",389165 km,389165 km
+66,/2U0yjlWCDredaRtmtU2SbTR5,"₦ 4,725,000",Honda Pilot EX 4dr SUV (3.5L 6cyl 5A) 2012 Black,"Rivers State, Port-Harcourt",199479 km,199479 km
+67,/b5BzqM9mjlkQ9Otod9L02wIM,"₦ 2,940,000",Toyota Sienna 2006 Black,"Lagos State, Lekki",215698 km,215698 km
+68,/6mJDuqKq0kvVFGdYVQDbihRN,"₦ 2,100,000",Nissan Murano 2007 Gray,"Rivers State, Port-Harcourt",183110 km,183110 km
+69,/pRhRpTOaHUepHdi1sIZFxIxQ,"₦ 2,392,000",Honda Pilot 2005 Silver,"Lagos State, Ogba",329946 km,329946 km
+70,/cyWIsbnhpNWWpEy8uJ7tBwCc,"₦ 1,575,000",Honda Odyssey 2009 Silver,"Oyo State, Ibadan",206280 km,206280 km
+71,/aEgBBUaNoALvYcZNkuSim0Qi,"₦ 3,640,000",Toyota Camry 2007 Gold,"Edo State, Benin City",62934 km,62934 km
+72,/aRsaLE0e9Vm7Cim7E9R1zMj1,"₦ 5,775,000",Toyota Avalon 2015 Black,"Lagos State, Ikotun/Igando",122556 km,122556 km
+73,/5bgtzkO0u9oGXhGwauj4LvDn,"₦ 945,000",Honda Accord 2005 Blue,"Edo State, Benin City",...,...
+74,/nftiI2IIKxEJFcUd4G9svHZB,"₦ 1,732,500",Honda CR-V 2006 Silver,"Lagos State, Ikorodu",123521 km,123521 km
+75,/kIgxc54YM53QSGZZ4EhWSJ2c,"₦ 3,160,000",Hyundai Sonata 2013 Gray,"Lagos State, Lekki",75716 km,75716 km
+76,/nz5nHyEKv7PhrngWsOcNDwBI,"₦ 1,575,000",Toyota Camry 2004 Silver,"Abuja (FCT), Jabi",297997 km,297997 km
+77,/unMI6oMmLfLGJjDAOt7QJlVX,"₦ 2,313,400",Honda Pilot 2006 Gray,"Lagos State, Surulere",282569 km,282569 km
+78,/vXD9eCZKN3pxObYsxnHfOaTu,"₦ 12,080,000",Honda Accord 2016 Black,"Abuja (FCT), Garki 2",152190 km,152190 km
+79,/swhd77QGO6wNRzmk0uGvRA8w,"₦ 5,928,000",Mercedes-Benz C350 2011 Blue,"Abuja (FCT), Gwarinpa",169914 km,169914 km
+80,/dRMdf282mEN2AFl9ROS0QYcu,"₦ 2,600,000",Honda Accord 2007 Gray,"Lagos State, Ojodu",257626 km,257626 km
+81,/u4syZIGdgibtNwtjFsQosGIT,"₦ 1,627,500",Honda Civic 2008 Black,"Abuja (FCT), Gwarinpa",210186 km,210186 km
+82,/napjyT7s6gX2KD9RU6FjWK3b,"₦ 2,625,000",Toyota Sienna 2008 Red,"Ogun State, Ado-Odo/Ota",374110 km,374110 km
+83,/85cVZIU0lf6RcTgZicaoVuXm,"₦ 4,160,000",Toyota Camry 2008 Black,"Abuja (FCT), Kubwa",245683 km,245683 km
+84,/v65JtAZYXUj5cIdmrTCSCD4q,"₦ 2,772,000",Toyota Camry 2008 Gray,"Ondo State, Akure",382108 km,382108 km
+85,/klW29PJyRPSR0khAQ7K2zM0s,"₦ 1,806,000",Volvo XC90 T6 AWD 2005 Gray,"Lagos State, Ikorodu",244035 km,244035 km
+86,/hTC8yivmApGFlkwQpyUGklkC,"₦ 10,192,000",Mercedes-Benz GLK-Class 2010 White,"Lagos State, Ikorodu",149061 km,149061 km
+87,/6xsBnOkh1bNg9ipQSStKEPgP,"₦ 2,625,000",Infiniti QX4 2003 Silver,"Abuja (FCT), Mararaba",173781 km,173781 km
+88,/BiLfLNe2i82tUDcg2aVjX8Kx,"₦ 3,024,000",Toyota Highlander Limited V6 2005 Blue,"Lagos State, Ikeja",229649 km,229649 km
+89,/ATVAaifQMLdlrDmVyAO2kxne,"₦ 3,858,750",Ford Ranger 2012 White,"Abuja (FCT), Katampe",107998 km,107998 km
+90,/q4YS7IGOqRl0jy1VWPhTjEsk,"₦ 3,432,000",Toyota Camry 2009 Red,"Abuja (FCT), Jabi",317025 km,317025 km
+91,/puXOFkUCjD0xYeoddwie2fHW,"₦ 3,600,000",Honda Accord Crosstour 2010 Red,"Delta State, Oshimili South",87287 km,87287 km
+92,/plbXvzGwuPHGKRzdIaCCpBjb,"₦ 7,875,000",Mercedes-Benz S-Class 2005 Silver,"Abuja (FCT), Jabi",92971 km,92971 km
+93,/pIDiKBiTDgDvwOkODUp3G2ha,"₦ 3,375,000",Mercedes-Benz B-Class 2008 Silver,"Kaduna State, Kaduna / Kaduna State",99999 km,99999 km
+94,/rhvstDdW5WmulJ1NYtXCbRpW,"₦ 2,250,000",Honda Accord 2008 Silver,"Abuja (FCT), Lugbe District",171591 km,171591 km
+95,/44EPskf55bBCsTGbBXTrPTYj,"₦ 3,937,500",Toyota Camry 2007 Gold,"Lagos State, Isolo",168212 km,168212 km
+96,/p45y86vmoCOPaI6mRjqCLiZN,"₦ 1,665,000",Nissan Xterra SE 4x4 2006 Silver,"Lagos State, Ikeja",164606 km,164606 km
+97,/6AWPsr2OUNzUCPdXJQNhd5Gm,"₦ 1,856,250",Toyota Camry 2004 Black,"Rivers State, Port-Harcourt",122557 km,122557 km
+98,/7qvBXjsBch4yEFOSh0FHGsry,"₦ 1,522,500",Honda Accord 2007 Blue,"Lagos State, Ogudu",154472 km,154472 km
+99,/3CFzQGfG3Wu7d0XbI70EOwYH,"₦ 2,812,500",Toyota Sienna 2004 Silver,"Oyo State, Ibadan",235435 km,235435 km
+100,/r7P4koefu2wsTbeUBCj8GcBg,"₦ 4,160,000",Honda Accord Crosstour 2010 Silver,"Lagos State, Lekki",213435 km,213435 km
+101,/6pqMVHgoFkViSckd1ZIV0AmJ,"₦ 4,935,000",Toyota Camry 2.4 2008 Gold,"Akwa Ibom State, Uyo",225187 km,225187 km
+102,/mnDC1rg6ThFgxm5nRgoighL,"₦ 1,470,000",Volkswagen Jetta 2009 Blue,"Oyo State, Ibadan",...,...
+103,/upo5Mc8tQ8a4MXvqH7mc6d4Y,"₦ 2,912,000",Toyota Corolla 2006 Blue,"Lagos State, Ikeja",243028 km,243028 km
+104,/tHNLirC9X1G89TJvhn7u6eou,"₦ 2,184,000",Toyota Camry 2002 Green,"Abuja (FCT), Lugbe District",553889 km,553889 km
+105,/C4x6i5Wexckuazruhw9LczK2,"₦ 4,410,000",Toyota Corolla 2013 Red,"Lagos State, Apapa",121908 km,121908 km
+106,/dwwUimBtqrl9jR4s3TDoR2F2,"₦ 1,872,000",Honda Accord 2005 Black,"Lagos State, Ojodu",246338 km,246338 km
+107,/1hpsK73cdFOy4wvzW83MCTdU,"₦ 5,250,000",Volkswagen Routan 2010 Gray,"Lagos State, Ikorodu",152341 km,152341 km
+108,/nFwwjz9OPBBJVStuhzndU27p,"₦ 15,808,000",Mercedes-Benz GL-Class GL 450 2012 Green,"Lagos State, Ikeja",346012 km,346012 km
+109,/kFFnfhoXOU5igCKE9G5vQPhy,"₦ 5,040,000",Honda Accord 2014 Silver,"Lagos State, Yaba",39551 km,39551 km
+110,/zXWcZQ1cRyhNFfgH0K2C69yO,"₦ 5,720,000",Lexus ES 2011 Gold,"Lagos State, Alimosho",109036 km,109036 km
+111,/oDuhT2t5vfMYScf5ZcjhZa9,"₦ 12,600,000",Toyota Highlander 2015 Blue,"Lagos State, Isolo",98483 km,98483 km
+112,/Bqy8fS8Me2wAaoMRndG519gj,"₦ 924,000",Mazda 626 2000 White,"Akwa Ibom State, Uyo",203790 km,203790 km
+113,/tD7eqj95tiokld4HT9y2N5UR,"₦ 2,250,000",Toyota Corolla 2004 Red,"Oyo State, Ibadan",435300 km,435300 km
+114,/5DkDz6mMlXzPVS6UVd4s22gk,"₦ 1,155,000",Toyota Sienna 2000 Gray,"Lagos State, Ikorodu",231528 km,231528 km
+115,/6xWf2AQOJjuEpSlFsjslYnKS,"₦ 10,500,000",Toyota Tacoma 2013 White,"Lagos State, Ajah",82516 km,82516 km
+116,/wxvl58nWPr4exkOA21QQ4TI9,"₦ 3,432,000",Toyota Sienna 2007 Gold,"Lagos State, Alimosho",368443 km,368443 km
+117,/Bk1QuGZkqmIFwZ14smYNa3ah,"₦ 1,230,600",Honda CR-V 2002 Black,"Lagos State, Ojodu",216145 km,216145 km
+118,/fS15xy5Ba5w1rph1ywx3uWao,"₦ 840,000",Nissan Sentra 2005 Black,"Ogun State, Ado-Odo/Ota",248025 km,248025 km
+119,/d3MzHubjZi5HQJSBmY8Dityq,"₦ 4,160,000",Toyota Corolla 2010 Silver,"Abuja (FCT), Garki 2",139161 km,139161 km
+120,/pG4W9zQJRuopk23JrNoYz16N,"₦ 3,255,000",Toyota Corolla 2009 Blue,"Abuja (FCT), Katampe",93892 km,93892 km
+121,/mWzv5DhAQxqsoG69O9GNnrIg,"₦ 2,600,000",Hyundai Elantra 2008 Black,"Kaduna State, Kaduna / Kaduna State",313045 km,313045 km
+122,/gpBmYPZe2v7Br1yt6HZsocmh,"₦ 1,365,000",Honda Accord 2004 Beige,"Lagos State, Lekki",272543 km,272543 km
+123,/jGZFFAQiHiFmUtCiwqn1A12H,"₦ 1,890,000",Honda City 2009 Gold,"Rivers State, Port-Harcourt",114095 km,114095 km
+124,/dTZpVpduwYSsLvMKC7ByrOkn,"₦ 35,700,000",Toyota Camry 2022 Gray,"Abuja (FCT), Jabi",199 km,199 km
+125,/zIEKMr7wrEUgwSZqsV8utGrF,"₦ 2,835,000",Mercedes-Benz CLS 2006 Gray,"Kwara State, Ilorin East",431003 km,431003 km
+126,/hxVVi2yuvluIRRxXOLCBULjj,"₦ 2,646,000",Toyota RAV4 2006 Blue,"Lagos State, Ajah",111815 km,111815 km
+127,/4bEj4uQUZAMs2vpLQqlV3aLV,"₦ 2,520,000",Ford F-150 2006 Black,"Lagos State, Yaba",163690 km,163690 km
+128,/tIjrmeqpZP7H01VaStBKQaXn,"₦ 6,240,000",Mazda CX-9 2009 White,"Oyo State, Ibadan",69485 km,69485 km
+129,/dE8cEkvYl7NcFl0YiMak3IqS,"₦ 3,150,000",Renault Laguna 2003 Silver,"Lagos State, Alimosho",224342 km,224342 km
+130,/w2i75QaWsFghSgmf71vwyVkv,"₦ 3,432,000",Volvo XC90 2005 Silver,"Abuja (FCT), Garki 2",193704 km,193704 km
+131,/32iqawGX1gIz4bVFMSPeCBkS,"₦ 1,872,000",Peugeot 307 X-Line 1.6 Automatic 2006 Silver,"Akwa Ibom State, Uyo",107232 km,107232 km
+132,/acXAdnwSH5fRqOiSNhllwyqB,"₦ 1,680,000",Toyota Sienna 2002 Red,"Oyo State, Ibadan",239544 km,239544 km
+133,/10WOhN1bJlLtdgBpcubym5UD,"₦ 3,045,000",Toyota Camry 2008 Red,"Lagos State, Ikeja",243225 km,243225 km
+134,/gcA5XMwoxCf7Wh8vM8GINwfk,"₦ 4,708,000",Lexus GX 2005 Blue,"Lagos State, Ilupeju",117966 km,117966 km
+135,/eRnk7hcyOGjm99N5zVhVATAA,"₦ 2,184,000",Honda Accord 2009 Gray,"Lagos State, Alimosho",254063 km,254063 km
+136,/tYixrTzU6GkHwjWhYdUcxdVt,"₦ 1,910,000",Mazda 6 2009 Silver,"Abuja (FCT), Garki 2",357323 km,357323 km
+137,/b5BzqM9mjlkQ9Otod9L02wIM,"₦ 2,940,000",Toyota Sienna 2006 Black,"Lagos State, Lekki",215698 km,215698 km
+138,/6mJDuqKq0kvVFGdYVQDbihRN,"₦ 2,100,000",Nissan Murano 2007 Gray,"Rivers State, Port-Harcourt",183110 km,183110 km
+139,/pRhRpTOaHUepHdi1sIZFxIxQ,"₦ 2,392,000",Honda Pilot 2005 Silver,"Lagos State, Ogba",329946 km,329946 km
+140,/cyWIsbnhpNWWpEy8uJ7tBwCc,"₦ 1,575,000",Honda Odyssey 2009 Silver,"Oyo State, Ibadan",206280 km,206280 km
+141,/aEgBBUaNoALvYcZNkuSim0Qi,"₦ 3,640,000",Toyota Camry 2007 Gold,"Edo State, Benin City",62934 km,62934 km
+142,/aRsaLE0e9Vm7Cim7E9R1zMj1,"₦ 5,775,000",Toyota Avalon 2015 Black,"Lagos State, Ikotun/Igando",122556 km,122556 km
+143,/5bgtzkO0u9oGXhGwauj4LvDn,"₦ 945,000",Honda Accord 2005 Blue,"Edo State, Benin City",...,...
+144,/nftiI2IIKxEJFcUd4G9svHZB,"₦ 1,732,500",Honda CR-V 2006 Silver,"Lagos State, Ikorodu",123521 km,123521 km
+145,/kIgxc54YM53QSGZZ4EhWSJ2c,"₦ 3,160,000",Hyundai Sonata 2013 Gray,"Lagos State, Lekki",75716 km,75716 km
+146,/nz5nHyEKv7PhrngWsOcNDwBI,"₦ 1,575,000",Toyota Camry 2004 Silver,"Abuja (FCT), Jabi",297997 km,297997 km
+147,/unMI6oMmLfLGJjDAOt7QJlVX,"₦ 2,313,400",Honda Pilot 2006 Gray,"Lagos State, Surulere",282569 km,282569 km
+148,/vXD9eCZKN3pxObYsxnHfOaTu,"₦ 12,080,000",Honda Accord 2016 Black,"Abuja (FCT), Garki 2",152190 km,152190 km
+149,/swhd77QGO6wNRzmk0uGvRA8w,"₦ 5,928,000",Mercedes-Benz C350 2011 Blue,"Abuja (FCT), Gwarinpa",169914 km,169914 km
+150,/dRMdf282mEN2AFl9ROS0QYcu,"₦ 2,600,000",Honda Accord 2007 Gray,"Lagos State, Ojodu",257626 km,257626 km
+151,/u4syZIGdgibtNwtjFsQosGIT,"₦ 1,627,500",Honda Civic 2008 Black,"Abuja (FCT), Gwarinpa",210186 km,210186 km
+152,/napjyT7s6gX2KD9RU6FjWK3b,"₦ 2,625,000",Toyota Sienna 2008 Red,"Ogun State, Ado-Odo/Ota",374110 km,374110 km
+153,/85cVZIU0lf6RcTgZicaoVuXm,"₦ 4,160,000",Toyota Camry 2008 Black,"Abuja (FCT), Kubwa",245683 km,245683 km
+154,/v65JtAZYXUj5cIdmrTCSCD4q,"₦ 2,772,000",Toyota Camry 2008 Gray,"Ondo State, Akure",382108 km,382108 km
+155,/klW29PJyRPSR0khAQ7K2zM0s,"₦ 1,806,000",Volvo XC90 T6 AWD 2005 Gray,"Lagos State, Ikorodu",244035 km,244035 km
+156,/hTC8yivmApGFlkwQpyUGklkC,"₦ 10,192,000",Mercedes-Benz GLK-Class 2010 White,"Lagos State, Ikorodu",149061 km,149061 km
+157,/6xsBnOkh1bNg9ipQSStKEPgP,"₦ 2,625,000",Infiniti QX4 2003 Silver,"Abuja (FCT), Mararaba",173781 km,173781 km
+158,/BiLfLNe2i82tUDcg2aVjX8Kx,"₦ 3,024,000",Toyota Highlander Limited V6 2005 Blue,"Lagos State, Ikeja",229649 km,229649 km
+159,/2sCsqOsYhKrlu6eiAakD0mwq,"₦ 4,935,000",Mercedes-Benz C300 2011 White,"Lagos State, Amuwo-Odofin",153944 km,153944 km
+160,/wPWsTD63jfkZtqZWEz6sjLeu,"₦ 3,045,000",Ford F-150 2005 Black,"Abuja (FCT), Garki 2",385147 km,385147 km
+161,/CmgzY9ab1PkIo9PvRaPnxPJW,"₦ 1,456,000",Peugeot 406 2002 Green,"Abuja (FCT), Garki 2",449965 km,449965 km
+162,/x4Myu8iJrBdFp9yCeXpzh8i4,"₦ 1,984,498",Honda Accord 2010 Green,"Lagos State, Ikeja",139035 km,139035 km
+163,/oMiS5oxBx2eCqp0oSHhSLOZd,"₦ 1,995,000",Toyota Camry 2005 Silver,"Abuja (FCT), Jabi",213378 km,213378 km
+164,/BQFhITmTEYLSIIq722Gjjibl,"₦ 2,205,000",Toyota Highlander 2002 Blue,"Oyo State, Ibadan",278343 km,278343 km
+165,/6C8Ybp3vg73Gcu7vLJ9J7ioN,"₦ 6,825,000",Kia Cerato 2013 Gray,"Ogun State, Ado-Odo/Ota",373500 km,373500 km
+166,/7CSfJKc9uTndBQtZ7GCMw1fx,"₦ 6,864,000",Toyota RAV4 2007 Red,"Kaduna State, Kaduna / Kaduna State",182272 km,182272 km
+167,/i6XLVHMvgsUmjPiMWqyg5HoV,"₦ 4,368,000",Toyota Highlander Limited V6 2006 Black,"Ondo State, Akure",209663 km,209663 km
+168,/rAsMw064bEefPGpfgrAtM6on,"₦ 4,680,000",Toyota 4-Runner SR5 V6 2007 Gray,"Lagos State, Isolo",146527 km,146527 km
+169,/8ikRr6TjcRzN7qgXzQSfUUlF,"₦ 2,415,000",Ford Fusion 2010 Black,"Lagos State, Mushin",61710 km,61710 km
+170,/r7rZuTJkDaUzGCOr4YT34QOL,"₦ 7,800,000",Toyota Highlander 2012 Black,"Abuja (FCT), Lugbe District",214212 km,214212 km
+171,/wVPTZsXn007cKHhuYu9nawfL,"₦ 3,432,000",Toyota Camry 2.4 LE 2008 Silver,"Imo State, Owerri",236241 km,236241 km
+172,/5Q75dXbPAt7IyVzH5AwmaEJ4,"₦ 4,992,000",Lexus IS 2009 White,"Lagos State, Ikorodu",103167 km,103167 km
+173,/6vI7bjQE7J4RKMQGAjPYFEdJ,"₦ 8,925,000",Hyundai Sonata 2018 White,"Lagos State, Lekki",113523 km,113523 km
+174,/p7dAh4IhPbpx9xuHNgyxRnPF,"₦ 2,835,000",Volkswagen Beetle 2008 Gold,"Abuja (FCT), Jabi",90330 km,90330 km
+175,/aXHkNgraeeP5111ITqEfEUd0,"₦ 2,310,000",Toyota Camry 2005 Gold,"Ondo State, Akure",257109 km,257109 km
+176,/aWKUp8ssBEQi99i8sBqImXZe,"₦ 29,280,000",Toyota Avalon 2019 Silver,"Lagos State, Lekki",16476 km,16476 km
+177,/8MathyZlpKh4Ld7rlm9Oh0KQ,"₦ 1,820,000",Honda Accord 2005 Gray,"Abuja (FCT), Kubwa",165026 km,165026 km
+178,/CsL18SzxFBFWZvm8ciY507X8,"₦ 14,040,000",Toyota Tacoma 2013 Gray,"Abuja (FCT), Mararaba",45097 km,45097 km
+179,/7KH288hWSRMypLkH5e2zzb6O,"₦ 2,392,000",Toyota Camry 2003 Silver,"Kwara State, Ilorin East",258200 km,258200 km
+180,/3wGLEH1ub78ySvFmXptqyaRu,"₦ 1,680,000",Mazda MPV 2004 White,"Lagos State, Ojodu",155060 km,155060 km
+181,/oJFjxUYaF6rNrjpUWGFYqBPO,"₦ 3,442,500",Honda Ridgeline RTL 2006 Silver,"Anambra State, Onitsha",319452 km,319452 km
+182,/raiDalGQ6QXjLbDcbRfoKN1P,"₦ 11,550,000",Toyota Fortuner 2014 Beige,"Lagos State, Ikorodu",186226 km,186226 km
+183,/A4YzbxzDXxpV6e5uhNP6m3sw,"₦ 1,575,000",Nissan Murano SE 2004 Black,"Lagos State, Ikeja",258733 km,258733 km
+184,/p4whXvGy4R6eZ4CqEMsxH6np,"₦ 1,365,000",Nissan Sentra 2006 Gray,"Lagos State, Yaba",480753 km,480753 km
+185,/348MWd8WAgUFMDRfuV10kxb1,"₦ 2,808,000",Toyota Camry 2006 Silver,"Abuja (FCT), Wuse",153575 km,153575 km
+186,/53p6cLa3SHFnToYuomlcgs1A,"₦ 1,785,000",Toyota RAV4 2003 Silver,"Abuja (FCT), Mararaba",195556 km,195556 km
+187,/nPLsSHFVoJ0Q6P2GQyBRtB6E,"₦ 3,990,000",Honda Ridgeline 2008 Silver,"Lagos State, Ojodu",153864 km,153864 km
+188,/aknCBjfrmzbBBrpP9LYswGXM,"₦ 2,205,000",Ford Edge 2007 Black,"Lagos State, Alimosho",171589 km,171589 km
+189,/rh0kPj1H1IyJfBrTnNw7wwJ1,"₦ 2,310,000",Mercedes-Benz C230 2007 Silver,"Abuja (FCT), Garki 2",60919 km,60919 km
+190,/5xEMOXskcyOc0VRxKzkpycIc,"₦ 3,432,000",Toyota Camry 2007 White,"Oyo State, Ibadan",197298 km,197298 km
+191,/bw4lZjUKmzVAKgBiQX2YXgmh,"₦ 1,050,000",Kia Cerato 2007 Black,"Abuja (FCT), Jabi",227161 km,227161 km
+192,/8kO8vIlDUL9hwq4UQF59IOGr,"₦ 2,080,000",Toyota Camry 2002 Black,"Lagos State, Alimosho",142548 km,142548 km
+193,/fMchgCjAlvJhcZTwr59I4bTu,"₦ 3,640,000",Acura MDX 2007 White,"Lagos State, Magodo",205117 km,205117 km
+194,/glfIqFyju2DLVCXetJ5mT9fc,"₦ 5,200,000",Mercedes-Benz GL-Class 2007 Silver,"Lagos State, Alimosho",159228 km,159228 km
+195,/pfJuJENei58C06xMPrNfIFrw,"₦ 1,260,000",Kia Rio 2009 Blue,"Lagos State, Victoria Island",97117 km,97117 km
+196,/xF8f2NuLH49oYJD8rj4gqvMA,"₦ 2,080,000",Volkswagen Passat 2007 Black,"Oyo State, Ibadan",134588 km,134588 km
+197,/yrAgw6vy6gMa5bOTUV42MczZ,"₦ 1,155,000",Nissan Almera 2000 Green,"Oyo State, Ibadan",275045 km,275045 km
+198,/cjJgPXhw3Q0aJ1iBNjIDqXxG,"₦ 3,120,000",Toyota Camry 2006 Silver,"Abuja (FCT), Kubwa",194295 km,194295 km
+199,/l8hAExlQTZzvswPb8L25pjuM,"₦ 2,100,000",Mercedes-Benz R-Class 2006 Silver,"Oyo State, Ibadan",...,...
+200,/imT8hmyyzGNzLUIPOcyWT79N,"₦ 4,239,375",Toyota Camry 2009 Gray,"Lagos State, Mushin",341645 km,341645 km
+201,/oONdoozdphWr37Lt7Vm3Oz4D,"₦ 4,680,000",Mercedes-Benz M Class 2006 Red,"Lagos State, Alimosho",...,...
+202,/cKqwlJGLNlXElOwaKWOyZ1R4,"₦ 14,070,000",Toyota Land Cruiser Prado 2.7 VVT-i 2014 Black,"Lagos State, Ikeja",141321 km,141321 km
+203,/yDjTaH2LxpWTGSJoZisMWw5v,"₦ 19,740,000",Mercedes-Benz G-Class 2013 White,"Lagos State, Ikeja",259362 km,259362 km
+204,/P7XwI9ctP5IGEtV85ECK4io,"₦ 6,800,000",Mercedes-Benz GLK-Class 2010 Silver,"Lagos State, Alimosho",362790 km,362790 km
+205,/iJK73u9yh6qIANL49UjGyqS,"₦ 2,467,500",Toyota Matrix 2006 Red,"Abuja (FCT), Jabi",138581 km,138581 km
+206,/jYGRuThnkZbgZY9qs4n90u55,"₦ 3,360,000",Kia Cerato 2016 Silver,"Ondo State, Akure",137952 km,137952 km
+207,/uHPxre4Ri0A77stXUnrbqglB,"₦ 12,376,000",Toyota Venza 2009 White,"Lagos State, Amuwo-Odofin",294694 km,294694 km
+208,/ftAJa1THygkAItRgXal1jjl6,"₦ 1,560,000",Toyota Camry 1999 Gray,"Kwara State, Ilorin East",381719 km,381719 km
+209,/tOqj79vBupx8K5sxKheE3Dfs,"₦ 3,885,000",Infiniti FX35 2009 Black,"Lagos State, Alimosho",90432 km,90432 km
+210,/zM83IYhN4tGSewHzwzrRjvpU,"₦ 1,207,500",Honda Civic 2005 Black,"Lagos State, Ogudu",...,...
+211,/kWkFxW6qJhQ1HcAgu3FcEMyv,"₦ 20,800,000",Lexus GX 2011 Black,"Lagos State, Lekki",105484 km,105484 km
+212,/58sOkMYt1fTjAAoDrkQ0tjw4,"₦ 7,460,000",Cadillac Escalade 2007 Gold,"Lagos State, Amuwo-Odofin",220494 km,220494 km
+213,/pzmnJnPylruTVyxlqzE8DmmG,"₦ 6,300,000",Toyota Venza 2009 Black,"Abuja (FCT), Jabi",75127 km,75127 km
+214,/mELJoGJAqDfVuwKBt8htgFbJ,"₦ 8,400,000",Toyota Sequoia 2011 Black,"Lagos State, Ajah",139867 km,139867 km
+215,/2Ux9AGkeESDUOGxGmHdd9fXt,"₦ 1,155,000",Nissan Sentra 2007 White,"Lagos State, Ilupeju",39248 km,39248 km
+216,/6fVlBD8xkGOzGs2T6ppXVxHj,"₦ 8,840,000",Lexus RX 350 2010 Silver,"Ogun State, Ado-Odo/Ota",120929 km,120929 km
+217,/g8P2PZJ0JG7VWtRHFORiDohb,"₦ 2,600,000",Toyota Camry 2002 Gray,"Lagos State, Magodo",192336 km,192336 km
+218,/p88JYGRYxDSUMZfB7MOTFCOg,"₦ 2,288,000",Toyota Camry 2002 Silver,"Ondo State, Akure",352596 km,352596 km
+219,/A4cuGS4UtJwzQ9MlqI2lLO2f,"₦ 2,310,000",Ford Explorer 2008 Teal,"Lagos State, Ogba",401448 km,401448 km
+220,/7C6snY58VMXoZ2G3HAKJniiR,"₦ 4,992,000",Lexus IS 250 2010 Red,"Abuja (FCT), Garki 2",185642 km,185642 km
+221,/qb3H6tyqSazjGnwS0FH93x9Q,"₦ 10,263,750",Mercedes-Benz M Class 2013 Silver,"Abuja (FCT), Wuse",55694 km,55694 km
+222,/CkDqct2L0rca6M5GeqgwLnKW,"₦ 16,380,000",Jaguar XJ 2011 Black,"Lagos State, Ikoyi",96920 km,96920 km
+223,/rlnLqHqXCr6NmDmfL2z6vJaD,"₦ 4,368,000",Lexus RX 330 2004 Black,"Lagos State, Alimosho",301904 km,301904 km
+224,/dFHyv3bb48BHd08O0SUJyGWM,"₦ 1,260,000",Infiniti G35 2003 Black,"Lagos State, Alimosho",181219 km,181219 km
+225,/i0hQ7WcE2V8kVuqsI8Ta9QuR,"₦ 3,640,000",Toyota Highlander 2003 Blue,"Abuja (FCT), Garki 2",239751 km,239751 km
+226,/5LP8Nuuf7CLg1l1hEy0tv5m7,"₦ 3,150,000",BMW 328i 2009 White,"Kaduna State, Kaduna / Kaduna State",156715 km,156715 km
+227,/oXL8YOCTFa2ykAJndXzewCLx,"₦ 8,190,000",Toyota Avalon 2015 Off white,"Lagos State, Victoria Island",209814 km,209814 km
+228,/wR0Itz3sAzw6yXkq4sMvsybA,"₦ 4,725,000",Toyota Corolla 2014 Black,"Lagos State, Yaba",118199 km,118199 km
+229,/bhdW84i9Mb4HG0SG63mNexY2,"₦ 6,300,000",Toyota Camry 2012 Red,"Lagos State, Lekki",221627 km,221627 km
+230,/5tsBHLuXoDNQAaE5vREgEeYl,"₦ 2,704,000",Toyota Camry 2005 Brown,"Lagos State, Ikeja",263334 km,263334 km
+231,/rI4mLha8hqMpmwqrlG1thJr2,"₦ 14,700,000",Land Rover Range Rover Vogue 2017 Black,"Abuja (FCT), Jabi",42082 km,42082 km
+232,/dzRjtXzN2ToV3zHUJYgVETbK,"₦ 1,470,000",Honda Pilot 2003 Black,"Lagos State, Surulere",365864 km,365864 km
+233,/39x3Y3zMMCf0NHQWKGj2bILp,"₦ 2,100,000",Toyota 4-Runner 1999 Silver,"Lagos State, Yaba",335071 km,335071 km
+234,/D7y0Do3VcE6srPebr1UNBcU,"₦ 4,305,000",Ford Escape 2014 Black,"Lagos State, Ikorodu",219193 km,219193 km
+235,/5QxMB4qKvDCAfF4JMWLDHGro,"₦ 13,860,000",Toyota RAV4 SE 4dr SUV (2.5L 4cyl 6A) 2018 Blue,"Lagos State, Ikeja",125670 km,125670 km
+236,/1hM336q5C3WgUjMXZNK0AMa9,"₦ 1,890,000",Ford F-150 2005 Blue,"Lagos State, Ojodu",313602 km,313602 km
+237,/vcGh7CQnX4jG1KCyHnjPD8Z6,"₦ 7,350,000",Toyota Tundra CrewMax Limited 5.7L 2010 Gray,"Abuja (FCT), Garki 2",93737 km,93737 km
+238,/1zE5NE6JbyHM8scWPgmWtOTT,"₦ 3,150,000",Honda Civic 2008 Gray,"Lagos State, Yaba",260950 km,260950 km
+239,/yWt4IUE14sgoYmLXUm81ruqa,"₦ 892,500",Toyota Camry 1996 Gold,"Oyo State, Ibadan",387191 km,387191 km
+240,/HjkgeQcsyh1ekowEXElThkK,"₦ 2,205,000",Nissan Armada 2004 Black,"Lagos State, Alimosho",219465 km,219465 km
+241,/fJEsl9PpPjzFrg6OeLFkpnZR,"₦ 1,768,000",Honda Accord 2005 Silver,"Abuja (FCT), Mararaba",200704 km,200704 km
+242,/i6BJP0TOoIhksaOM33jSVfmU,"₦ 2,310,000",Volkswagen Rabbit 2007 White,"Lagos State, Ikeja",243060 km,243060 km
+243,/2IXcv2Mb2AvkRWKt3DzGeuS6,"₦ 3,120,000",Toyota Corolla 2006 Black,"Lagos State, Yaba",482800 km,482800 km
+244,/f1XTQp8y9cjKAXMF6ay0cEQQ,"₦ 13,650,000",Mercedes-Benz C300 2015 White,"Ondo State, Akure",169600 km,169600 km
+245,/b7q1Sgcq9kJOx96xGQiNgkaf,"₦ 3,150,000",Lexus IS 2006 Silver,"Lagos State, Yaba",383001 km,383001 km
+246,/BbI9yKWX068QCYAt0Qti1EiS,"₦ 1,365,000",Toyota Camry 2002 Gold,"Ondo State, Akure",486400 km,486400 km
+247,/zdsaWio85xRhlxau3VemApJe,"₦ 10,825,000",Mercedes-Benz S-Class S 550 2012 Silver,"Abuja (FCT), Garki 2",74903 km,74903 km
+248,/pWTY2l6F8YkBpL3McWgnZAhZ,"₦ 1,365,000",Honda Pilot 2003 Blue,"Abuja (FCT), Wuse",264100 km,264100 km
+249,/zMXrRyn6zUvPEukL8Igl3CPe,"₦ 1,785,000",Toyota Avensis 1.8 VVTi 2008 Blue,"Akwa Ibom State, Uyo",256487 km,256487 km
+250,/dlomP1m8LDL6O6mYjm3J6fIQ,"₦ 3,150,000",Nissan Titan 2004 Black,"Lagos State, Ajah",316029 km,316029 km
+251,/z3DxKWKeXxPZmv7bQ4vMB98q,"₦ 3,255,000",Chrysler 300 2009 Black,"Oyo State, Ibadan",145535 km,145535 km
+252,/uOeKTPIUerL2sIfUhOQR1mjN,"₦ 8,400,000",Toyota Sienna 2013 Ivory,"Delta State, Oshimili South",85799 km,85799 km
+253,/5Xofrg0lHUb6bGs12x6hmxcb,"₦ 4,368,000",Volkswagen Passat 2012 Red,"Oyo State, Ibadan",74869 km,74869 km
+254,/md092obrSIfQrrveRpF3LoUk,"₦ 4,725,000",Toyota Sienna 2008 Gray,"Lagos State, Alimosho",360244 km,360244 km
+255,/dmaUr6CUA1dm9cvsoQz2kuwX,"₦ 8,400,000",Toyota Yaris 2019 Silver,"Oyo State, Ibadan",110928 km,110928 km
+256,/a4WIDmK9WwnksMB0JYuPCOhy,"₦ 4,252,500",Hyundai Sonata 2011 Red,"Imo State, Owerri",321423 km,321423 km
+257,/8JkcinssLTghR4q3zw077pR4,"₦ 7,350,000",Land Rover Range Rover Evoque Pure 2012 Gray,"Lagos State, Ilupeju",55749 km,55749 km
+258,/aTm7YjeRtI9CzvNAzRkyLaQI,"₦ 1,785,000",Car 2005 Gray,"Lagos State, Yaba",85260 km,85260 km
+259,/B5zvkA2kKJT97dRoK2aXT7Jm,"₦ 7,245,000",Toyota Highlander Hybrid 2009 Silver,"Lagos State, Ikeja",40244 km,40244 km
+260,/7SQmNpu2IepUWEziQJuq2NIq,"₦ 4,725,000",Dodge Caravan 2012 Gray,"Lagos State, Lekki",135798 km,135798 km
+261,/tQOeEvDxRym0A8ayhx0ySMSW,"₦ 3,675,000",Mercedes-Benz M Class 2003 Black,"Oyo State, Ibadan",73538 km,73538 km
+262,/5qGGq2nJNrOmE66nCaYgLQEt,"₦ 3,150,000",Jaguar S-Type 2008 Green,"Abuja (FCT), Jabi",52845 km,52845 km
+263,/yqnYPwcCnvc0tGgxt00B1egC,"₦ 3,150,000",Toyota Camry 2008 Black,"Abuja (FCT), Gwarinpa",124983 km,124983 km
+264,/17oTjnzKEETjndEcVlzZ03SY,"₦ 4,200,000",Ford Focus 2012 Black,"Abuja (FCT), Garki 2",373355 km,373355 km
+265,/BxpE1PphWk8X5pJV1HBWWDP4,"₦ 2,415,000",Toyota Corolla 2005 Red,"Edo State, Benin City",291348 km,291348 km
+266,/xv5uOBoZJeJPaSb4hoQmUnsi,"₦ 3,937,500",Lexus RX 330 2006 Blue,"Anambra State, Onitsha",138580 km,138580 km
+267,/tA1AEG5alfYbROl8R3tRCP5Z,"₦ 3,026,250",Toyota Camry 2008 Gray,"Lagos State, Ojodu",278077 km,278077 km
+268,/sC1ffdQ4uIhPwp144GGUvERa,"₦ 4,500,000",Toyota Camry 2010 Silver,"Lagos State, Ikorodu",188487 km,188487 km
+269,/G1DgVFPlzJC64UrNpMlRg6g,"₦ 6,187,500",Hyundai Tucson 2014 Silver,"Lagos State, Ikoyi",166578 km,166578 km
+270,/s4I6QEtUIOPo82gYfCEWbjeL,"₦ 3,150,000",New Toyota Corolla 2009 Gold,"Lagos State, Ifako-Ijaiye",145681 km,145681 km
+271,/kUNewF7GxkTKVwDviAIElPyU,"₦ 9,562,500",Mercedes-Benz M Class 2012 Gray,"Delta State, Oshimili South",532965 km,532965 km
+272,/pOHmLaSyAsNCwVK3vTP4kRuT,"₦ 11,587,500",Lexus RX 350 2011 White,"Lagos State, Magodo",293033 km,293033 km
+273,/4V77qeLt9yqmXhYEeLklBUIC,"₦ 1,462,500",Honda Accord 2003 Gold,"Oyo State, Ibadan",243576 km,243576 km
+274,/kAFPQ5CQmwbPzBpTaCvAGD6O,"₦ 7,875,000",Toyota Venza 2010 Green,"Abuja (FCT), Garki 2",36871 km,36871 km
+275,/ajQjWngzZ4rKhIjnWWc5nIWM,"₦ 4,387,500",Lexus RX 330 2004 Blue,"Ondo State, Akure",276651 km,276651 km
+276,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+277,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+278,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+279,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+280,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+281,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+282,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+283,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+284,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+285,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+286,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+287,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
+288,/6pymee9mOb8EO1sDQWm37Yq0,"₦ 3,675,000",Lexus RX 350 2008 Gray,"Lagos State, Ikorodu",145057 km,145057 km
